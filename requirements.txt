@@ -1,0 +1,5 @@
+datasets
+transformers
+sentence-transformers
+tensorflow-macos
+#tensorflow-metal
